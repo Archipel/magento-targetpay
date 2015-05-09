@@ -2,7 +2,7 @@ app/code/local/Targetpay app/code/local/Targetpay
 app/design/frontend/base/default/template/ideal/payment/form app/design/frontend/base/default/template/ideal/payment/form 
 app/design/frontend/base/default/template/sofort/payment/form app/design/frontend/base/default/template/sofort/payment/form 
 app/etc/modules/Targetpay_Creditcard.xml app/etc/modules/Targetpay_Creditcard.xml
-app/etc/modules/Targetpay_Ideal.cml app/etc/modules/Targetpay_Ideal.xml
+app/etc/modules/Targetpay_Ideal.xml app/etc/modules/Targetpay_Ideal.xml
 app/etc/modules/Targetpay_Mrcash.xml app/etc/modules/Targetpay_Mrcash.xml
 app/etc/modules/Targetpay_Paybyinvoice.xml app/etc/modules/Targetpay_Paybyinvoice.xml
 app/etc/modules/Targetpay_Paysafecard.xml app/etc/modules/Targetpay_Paysafecard.xml
