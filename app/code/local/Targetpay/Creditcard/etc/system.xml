@@ -4,7 +4,7 @@
         <payment>
             <groups>
                 <creditcard translate="label" module="paygate">
-                    <label>Creditcard</label>
+                    <label>Targetpay - Creditcard</label>
                     <sort_order>-5</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>1</show_in_website>

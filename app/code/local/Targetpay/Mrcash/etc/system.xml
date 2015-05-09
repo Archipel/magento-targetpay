@@ -4,7 +4,7 @@
         <payment>
             <groups>
                 <mrcash translate="label" module="paygate">
-                    <label>Mister Cash</label>
+                    <label>Targetpay - Mister Cash</label>
                     <sort_order>-9</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>1</show_in_website>

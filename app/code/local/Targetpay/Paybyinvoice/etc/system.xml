@@ -4,7 +4,7 @@
         <payment>
             <groups>
                 <paybyinvoice translate="label" module="paygate">
-                    <label>Achteraf Betalen</label>
+                    <label>Targetpay - Achteraf Betalen</label>
                     <sort_order>-7</sort_order>
                     <show_in_default>1</show_in_default>
                     <show_in_website>1</show_in_website>
